@@ -1,3 +1,6 @@
+%cd 'Path to your directory'
+%ls
+
 # Import parent class
 from env import Environment
 
