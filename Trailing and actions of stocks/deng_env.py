@@ -1,4 +1,4 @@
-%cd '/content/drive/MyDrive/Mis Documentos/Curso de Python/Deep Reinforcement Learning. Project'
+%cd 'Path to the directory'
 %ls
 
 # Import parent class
